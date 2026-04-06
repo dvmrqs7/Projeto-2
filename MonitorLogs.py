@@ -1,8 +1,7 @@
 import random
 import datetime
 
-#Gabriel dos Santos Ferreira RGM: 47086921
-#Matheus Freitas Hilario de Moraes RGM:047403012
+#Davi Marques Vieira
 
 # GERAÇÃO
 
